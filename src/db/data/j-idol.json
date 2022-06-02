@@ -1,0 +1,2007 @@
+[
+  {
+    "idolType": "j-idol",
+    "IdolName": "乃木坂46",
+    "spotifyId": "08lN7bm4Etec8ETFxaTUmq",
+    "spotifyClientUrl": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/08lN7bm4Etec8ETFxaTUmq",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "BiSH",
+    "spotifyId": "0ebinq3ZTOQAJNag4sBTJj",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0ebinq3ZTOQAJNag4sBTJj",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "idol rock",
+      "j-pixie",
+      "j-pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Perfume",
+    "spotifyId": "2XMxWKPKCxoLkSdpCViCnr",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2XMxWKPKCxoLkSdpCViCnr",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "bitpop",
+      "j-idol",
+      "j-pop",
+      "j-pop girl group",
+      "japanese electropop",
+      "shibuya-kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "欅坂46",
+    "spotifyId": "03E7w8NrBr4lNCK33TQyil",
+    "spotifyClientUrl": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/03E7w8NrBr4lNCK33TQyil",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "AKB48",
+    "spotifyId": "01wau5CL3Z1vfJJWkzBkqg",
+    "spotifyClientUrl": "https://open.spotify.com/artist/01wau5CL3Z1vfJJWkzBkqg",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/01wau5CL3Z1vfJJWkzBkqg",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol",
+      "j-pop",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "松田聖子",
+    "spotifyId": "3E5NLQpQbd0eJ18XO9zC0h",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3E5NLQpQbd0eJ18XO9zC0h",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol kayo",
+      "j-pop",
+      "japanese singer-songwriter",
+      "kayokyoku",
+      "techno kayo"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "竹内まりや",
+    "spotifyId": "3WwGRA2o4Ux1RRMYaYDh7N",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3WwGRA2o4Ux1RRMYaYDh7N",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "classic city pop",
+      "idol kayo",
+      "j-pop",
+      "japanese singer-songwriter"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "中森明菜",
+    "spotifyId": "7140bcJ0ZySe314nUfOo1J",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7140bcJ0ZySe314nUfOo1J",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7140bcJ0ZySe314nUfOo1J",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol kayo",
+      "j-pop",
+      "japanese new wave",
+      "kayokyoku",
+      "techno kayo"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "miwa",
+    "spotifyId": "3R3WEsfL1WC1zLiz3XG9K5",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3R3WEsfL1WC1zLiz3XG9K5",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3R3WEsfL1WC1zLiz3XG9K5",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "anime rock",
+      "j-idol",
+      "j-pop",
+      "j-poprock",
+      "j-rock"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ももいろクローバーZ",
+    "spotifyId": "3Zl0EsuYV23OgNw6WqGelN",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3Zl0EsuYV23OgNw6WqGelN",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "denpa-kei",
+      "idol rock",
+      "j-idol",
+      "j-pop",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "=LOVE",
+    "spotifyId": "1j2WhcTW00Zd2SjFYsJVc6",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1j2WhcTW00Zd2SjFYsJVc6",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "E-girls",
+    "spotifyId": "6CKN3GUiWMrESH1RKn3ecz",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6CKN3GUiWMrESH1RKn3ecz",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6CKN3GUiWMrESH1RKn3ecz",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Flower",
+    "spotifyId": "0VPLGnexd8K6BGbpLiPPVj",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0VPLGnexd8K6BGbpLiPPVj",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0VPLGnexd8K6BGbpLiPPVj",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "工藤静香",
+    "spotifyId": "7sU5H7XSVz0GC1RyM7jY2W",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7sU5H7XSVz0GC1RyM7jY2W",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7sU5H7XSVz0GC1RyM7jY2W",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "classic j-pop",
+      "idol kayo",
+      "j-pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "きゃりーぱみゅぱみゅ",
+    "spotifyId": "7Gh6fW49xfXLP8DTWaLVJP",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7Gh6fW49xfXLP8DTWaLVJP",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "japanese electropop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "大原櫻子",
+    "spotifyId": "5TS11vZTUaDP4maTjFCcBU",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5TS11vZTUaDP4maTjFCcBU",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-acoustic",
+      "j-idol",
+      "j-pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "島谷ひとみ",
+    "spotifyId": "34eavfJpWV3DnvwqOmml18",
+    "spotifyClientUrl": "https://open.spotify.com/artist/34eavfJpWV3DnvwqOmml18",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/34eavfJpWV3DnvwqOmml18",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "j-idol",
+      "j-pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "SCANDAL",
+    "spotifyId": "7hTZwqQILVH4bAbN67CeEz",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7hTZwqQILVH4bAbN67CeEz",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "idol rock",
+      "j-pop",
+      "j-poprock"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "≠ME",
+    "spotifyId": "3e3ubSlRDBFxokscDrbvpF",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3e3ubSlRDBFxokscDrbvpF",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3e3ubSlRDBFxokscDrbvpF",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "大森靖子",
+    "spotifyId": "24YRwiUM8Lj1bamuYNbeEr",
+    "spotifyClientUrl": "https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/24YRwiUM8Lj1bamuYNbeEr",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ZONE",
+    "spotifyId": "5kYS7bPX5tm3jrsYqqNSZN",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5kYS7bPX5tm3jrsYqqNSZN",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5kYS7bPX5tm3jrsYqqNSZN",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-poprock"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "SILENT SIREN",
+    "spotifyId": "11FVEsg4m3QWzNfaK7vykQ",
+    "spotifyClientUrl": "https://open.spotify.com/artist/11FVEsg4m3QWzNfaK7vykQ",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/11FVEsg4m3QWzNfaK7vykQ",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "anime rock",
+      "heavy alternative",
+      "idol rock",
+      "j-pixie",
+      "j-poprock"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "NMB48",
+    "spotifyId": "1DdzMfvcBzMgdX5iPu69wk",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1DdzMfvcBzMgdX5iPu69wk",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1DdzMfvcBzMgdX5iPu69wk",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "hitomi",
+    "spotifyId": "5rdloWitZKhrtedmOBdhG8",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5rdloWitZKhrtedmOBdhG8",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5rdloWitZKhrtedmOBdhG8",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "BABYMETAL",
+    "spotifyId": "630wzNP2OL7fl4Xl0GnMWq",
+    "spotifyClientUrl": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/630wzNP2OL7fl4Xl0GnMWq",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "comic metal",
+      "idol rock",
+      "j-metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "PassCode",
+    "spotifyId": "6AIX7SZPkjZ2u7gZaw1uQo",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6AIX7SZPkjZ2u7gZaw1uQo",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6AIX7SZPkjZ2u7gZaw1uQo",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "j-pixie",
+      "japanese screamo",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "BAND-MAID",
+    "spotifyId": "5Wh3G01Xfxn2zzEZNpuYHH",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5Wh3G01Xfxn2zzEZNpuYHH",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ZOC",
+    "spotifyId": "2cSY7oETuQa2uxWO7w5cDd",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2cSY7oETuQa2uxWO7w5cDd",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2cSY7oETuQa2uxWO7w5cDd",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "jirai kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "HKT48",
+    "spotifyId": "4gEIINdqeWnlTnmdsCUVBf",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4gEIINdqeWnlTnmdsCUVBf",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4gEIINdqeWnlTnmdsCUVBf",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "岩崎良美",
+    "spotifyId": "7mAczrzrX3yC9yix8DM1YV",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7mAczrzrX3yC9yix8DM1YV",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7mAczrzrX3yC9yix8DM1YV",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "idol kayo",
+      "japanese new wave"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ROTTENGRAFFTY",
+    "spotifyId": "5VLauD4FsZKQzCZEuJsxSj",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5VLauD4FsZKQzCZEuJsxSj",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-rock",
+      "japanese punk rock"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "平野綾",
+    "spotifyId": "3i2cfgYBlN8krGOtCqEYHj",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3i2cfgYBlN8krGOtCqEYHj",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "j-idol",
+      "seiyu"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "パスピエ",
+    "spotifyId": "115IWAVy4OTxhE0xdDef1c",
+    "spotifyClientUrl": "https://open.spotify.com/artist/115IWAVy4OTxhE0xdDef1c",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/115IWAVy4OTxhE0xdDef1c",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-poprock",
+      "japanese alternative rock",
+      "japanese indie pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "BiS",
+    "spotifyId": "686Q2yJDYA5wjFy1PJXjGX",
+    "spotifyClientUrl": "https://open.spotify.com/artist/686Q2yJDYA5wjFy1PJXjGX",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/686Q2yJDYA5wjFy1PJXjGX",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "MAX",
+    "spotifyId": "1k1PGWbco3gP4GGTLYXHLU",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1k1PGWbco3gP4GGTLYXHLU",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1k1PGWbco3gP4GGTLYXHLU",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "classic j-pop",
+      "idol kayo",
+      "okinawan pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Crossfaith",
+    "spotifyId": "3gfA40vRbx6YX8oCDXDCDh",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3gfA40vRbx6YX8oCDXDCDh",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "j-rock",
+      "japanese metalcore",
+      "japanese punk rock",
+      "metalcore",
+      "trancecore"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "山本彩",
+    "spotifyId": "0MkmM5Vy3gj9QX1JHiYCiK",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0MkmM5Vy3gj9QX1JHiYCiK",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0MkmM5Vy3gj9QX1JHiYCiK",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "SKE48",
+    "spotifyId": "5G8OLQcvoCxiMQzwEcuWeN",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5G8OLQcvoCxiMQzwEcuWeN",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5G8OLQcvoCxiMQzwEcuWeN",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "堀江由衣",
+    "spotifyId": "7LKC71aoVTsDcHP9weRH9R",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7LKC71aoVTsDcHP9weRH9R",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7LKC71aoVTsDcHP9weRH9R",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "j-idol",
+      "j-poprock",
+      "seiyu"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "MUCC",
+    "spotifyId": "2OfxY8WbbZZu7GiRJLb0P5",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2OfxY8WbbZZu7GiRJLb0P5",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2OfxY8WbbZZu7GiRJLb0P5",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "oshare kei",
+      "visual kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "小倉唯",
+    "spotifyId": "4BVBO54UlQrzDW66hSEefy",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4BVBO54UlQrzDW66hSEefy",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime",
+      "j-idol",
+      "seiyu"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "新垣結衣",
+    "spotifyId": "60cIghPNfJZNrZpyKKfObj",
+    "spotifyClientUrl": "https://open.spotify.com/artist/60cIghPNfJZNrZpyKKfObj",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/60cIghPNfJZNrZpyKKfObj",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "okinawan pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "a crowd of rebellion",
+    "spotifyId": "3gy7nxZ3l2Q0Xz9sXAXrVX",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3gy7nxZ3l2Q0Xz9sXAXrVX",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese screamo"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ラストアイドル",
+    "spotifyId": "4MoN2GVxad69TdfvFf0pZ6",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4MoN2GVxad69TdfvFf0pZ6",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4MoN2GVxad69TdfvFf0pZ6",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "MOSHIMO",
+    "spotifyId": "2wfyx0p7LKFYZh2SaM9pXy",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2wfyx0p7LKFYZh2SaM9pXy",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie",
+      "kyushu indie"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Dream",
+    "spotifyId": "67j0XHDG7fP5ZHia8gDsJU",
+    "spotifyClientUrl": "https://open.spotify.com/artist/67j0XHDG7fP5ZHia8gDsJU",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/67j0XHDG7fP5ZHia8gDsJU",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Unlucky Morpheus",
+    "spotifyId": "3NyKjyguig68xw6kSpeDiW",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3NyKjyguig68xw6kSpeDiW",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3NyKjyguig68xw6kSpeDiW",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "lynch.",
+    "spotifyId": "0aktK1dEPqBQP36Dt1RZPd",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0aktK1dEPqBQP36Dt1RZPd",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0aktK1dEPqBQP36Dt1RZPd",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese metalcore",
+      "oshare kei",
+      "visual kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "おニャン子クラブ",
+    "spotifyId": "5qahyxUWCUPR8C1vuGozmH",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5qahyxUWCUPR8C1vuGozmH",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5qahyxUWCUPR8C1vuGozmH",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol kayo",
+      "j-pop girl group",
+      "kayokyoku"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "NEMOPHILA",
+    "spotifyId": "1ijXMkMWUj8mJrW2SnIvpp",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1ijXMkMWUj8mJrW2SnIvpp",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Dream5",
+    "spotifyId": "5BqQUM8Xe6LUP48eZLWhFI",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5BqQUM8Xe6LUP48eZLWhFI",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5BqQUM8Xe6LUP48eZLWhFI",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "STU48",
+    "spotifyId": "0Z45lR91V2XYj0YxdiFxnF",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0Z45lR91V2XYj0YxdiFxnF",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0Z45lR91V2XYj0YxdiFxnF",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "フェアリーズ",
+    "spotifyId": "2SstyMCCWBZLnOj9BoyaxU",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2SstyMCCWBZLnOj9BoyaxU",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2SstyMCCWBZLnOj9BoyaxU",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ときめき♡宣伝部",
+    "spotifyId": "2lqUcuIdIv7Qyuw19ukFKP",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2lqUcuIdIv7Qyuw19ukFKP",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2lqUcuIdIv7Qyuw19ukFKP",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group",
+      "jirai kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Lovebites",
+    "spotifyId": "4H1S8RTYv4vN3SiM5uSZSa",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4H1S8RTYv4vN3SiM5uSZSa",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4H1S8RTYv4vN3SiM5uSZSa",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "j-pixie",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "The Winking Owl",
+    "spotifyId": "08aT4nW2iKh4WRoYojWmDE",
+    "spotifyClientUrl": "https://open.spotify.com/artist/08aT4nW2iKh4WRoYojWmDE",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/08aT4nW2iKh4WRoYojWmDE",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "anime rock",
+      "idol rock",
+      "j-pixie",
+      "j-poprock",
+      "japanese emo",
+      "japanese pop punk"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "NGT48",
+    "spotifyId": "4wZjP2p0Sm5EHM32uuAgGf",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4wZjP2p0Sm5EHM32uuAgGf",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4wZjP2p0Sm5EHM32uuAgGf",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ノースリーブス",
+    "spotifyId": "2VM81ux8Ip6Vq2RsDdeGXW",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2VM81ux8Ip6Vq2RsDdeGXW",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2VM81ux8Ip6Vq2RsDdeGXW",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ヒステリックパニック",
+    "spotifyId": "5gcxdZ3ZghD2XNc8ptMLZq",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5gcxdZ3ZghD2XNc8ptMLZq",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5gcxdZ3ZghD2XNc8ptMLZq",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese metalcore"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "板野友美",
+    "spotifyId": "321nhiiH5SXtp1UQ8441au",
+    "spotifyClientUrl": "https://open.spotify.com/artist/321nhiiH5SXtp1UQ8441au",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/321nhiiH5SXtp1UQ8441au",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "上戸 彩",
+    "spotifyId": "3gQe1ekWxXzJCI1ryAvxxP",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3gQe1ekWxXzJCI1ryAvxxP",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3gQe1ekWxXzJCI1ryAvxxP",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "NOCTURNAL BLOODLUST",
+    "spotifyId": "3ufWwEY2l678hzrJLBgn4N",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3ufWwEY2l678hzrJLBgn4N",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3ufWwEY2l678hzrJLBgn4N",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese metalcore",
+      "oshare kei",
+      "visual kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "misono",
+    "spotifyId": "6kvN5e0vPFKf6Ra4BrINU4",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6kvN5e0vPFKf6Ra4BrINU4",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6kvN5e0vPFKf6Ra4BrINU4",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Girugamesh",
+    "spotifyId": "2U7eU3UgrxPMlNd5w9lv73",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2U7eU3UgrxPMlNd5w9lv73",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2U7eU3UgrxPMlNd5w9lv73",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "oshare kei",
+      "visual kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "さくら学院",
+    "spotifyId": "6ZkreMw9VEGOdBw6NEuG92",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6ZkreMw9VEGOdBw6NEuG92",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6ZkreMw9VEGOdBw6NEuG92",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "北乃きい",
+    "spotifyId": "6Q9k4im67ADm8hp4Q2j5XF",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6Q9k4im67ADm8hp4Q2j5XF",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6Q9k4im67ADm8hp4Q2j5XF",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "柏木由紀",
+    "spotifyId": "2BESLc1BVykMjAMNKjiK6H",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2BESLc1BVykMjAMNKjiK6H",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2BESLc1BVykMjAMNKjiK6H",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "idol rock",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "田村英里子",
+    "spotifyId": "4tc2Vg3R8pVtea8WeUFIOm",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4tc2Vg3R8pVtea8WeUFIOm",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4tc2Vg3R8pVtea8WeUFIOm",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "classic j-pop",
+      "idol kayo"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "PASSPO☆",
+    "spotifyId": "5WDBccAjrNXefFQgCNtDcf",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5WDBccAjrNXefFQgCNtDcf",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5WDBccAjrNXefFQgCNtDcf",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "CoCo",
+    "spotifyId": "0053IOogvINAp4SBeFSz82",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0053IOogvINAp4SBeFSz82",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0053IOogvINAp4SBeFSz82",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "classic city pop",
+      "classic j-pop",
+      "idol kayo"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "前田敦子",
+    "spotifyId": "2dqEyDtHYBZAihnvObcpcb",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2dqEyDtHYBZAihnvObcpcb",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2dqEyDtHYBZAihnvObcpcb",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Aldious",
+    "spotifyId": "58BNa2XSCHkchphUFCdgb3",
+    "spotifyClientUrl": "https://open.spotify.com/artist/58BNa2XSCHkchphUFCdgb3",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/58BNa2XSCHkchphUFCdgb3",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "j-pixie",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "吉川友",
+    "spotifyId": "3QA6cyQrZCYkFyuWZxMiEr",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3QA6cyQrZCYkFyuWZxMiEr",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3QA6cyQrZCYkFyuWZxMiEr",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "そこに鳴る",
+    "spotifyId": "01XDGcFHJd4v02CN2tuMGF",
+    "spotifyClientUrl": "https://open.spotify.com/artist/01XDGcFHJd4v02CN2tuMGF",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/01XDGcFHJd4v02CN2tuMGF",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie",
+      "japanese math rock"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "vivid undress",
+    "spotifyId": "1EqmdzkoxPJlQP039YoGCq",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1EqmdzkoxPJlQP039YoGCq",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1EqmdzkoxPJlQP039YoGCq",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "UNDEAD CORPORATION",
+    "spotifyId": "6fKT4n1tGdjiH5RwNRQuTf",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6fKT4n1tGdjiH5RwNRQuTf",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6fKT4n1tGdjiH5RwNRQuTf",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "doujin",
+      "idol rock",
+      "j-metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "フレンチ・キス",
+    "spotifyId": "1Kl970wxlwnHyFfC8W2dLf",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1Kl970wxlwnHyFfC8W2dLf",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1Kl970wxlwnHyFfC8W2dLf",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "妄想キャリブレーション",
+    "spotifyId": "10kHy02xriAQZgVKfYSTz1",
+    "spotifyClientUrl": "https://open.spotify.com/artist/10kHy02xriAQZgVKfYSTz1",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/10kHy02xriAQZgVKfYSTz1",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "SECONDWALL",
+    "spotifyId": "10hMiheRVAvDDxp2wFPFd5",
+    "spotifyClientUrl": "https://open.spotify.com/artist/10hMiheRVAvDDxp2wFPFd5",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/10hMiheRVAvDDxp2wFPFd5",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "BRIDEAR",
+    "spotifyId": "3h6F7NaadGF3Ayf3FJBjdR",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3h6F7NaadGF3Ayf3FJBjdR",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3h6F7NaadGF3Ayf3FJBjdR",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "j-pixie",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Mary's Blood",
+    "spotifyId": "7KIjskeqDtip66aAMMvX62",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7KIjskeqDtip66aAMMvX62",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7KIjskeqDtip66aAMMvX62",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "チームしゃちほこ",
+    "spotifyId": "6BHbR0Nd5D3BT1oucUy9xn",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6BHbR0Nd5D3BT1oucUy9xn",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6BHbR0Nd5D3BT1oucUy9xn",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ELFENSJóN",
+    "spotifyId": "5vomJOkSx5xcnZg09Q8XGt",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5vomJOkSx5xcnZg09Q8XGt",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5vomJOkSx5xcnZg09Q8XGt",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese power metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "TEARS OF TRAGEDY",
+    "spotifyId": "1VfZ7ea6UA8spw6YSbNGYM",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1VfZ7ea6UA8spw6YSbNGYM",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1VfZ7ea6UA8spw6YSbNGYM",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "渡辺麻友",
+    "spotifyId": "404KSG1w1GP0oWwWeT8ZIt",
+    "spotifyClientUrl": "https://open.spotify.com/artist/404KSG1w1GP0oWwWeT8ZIt",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/404KSG1w1GP0oWwWeT8ZIt",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "やまがたすみこ",
+    "spotifyId": "4JG1gQtoe53W8X9W3OAk5C",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4JG1gQtoe53W8X9W3OAk5C",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol kayo",
+      "japanese folk"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "花冷え。",
+    "spotifyId": "4N2I7VsF86h59tbsvVoB1h",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4N2I7VsF86h59tbsvVoB1h",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese metalcore"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "UNIONE",
+    "spotifyId": "6UNEONDXoi7dQe8ulQFvXP",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6UNEONDXoi7dQe8ulQFvXP",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6UNEONDXoi7dQe8ulQFvXP",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop boy group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "たこやきレインボー",
+    "spotifyId": "3Gy9YFDrhJbxoGPm05v3rq",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3Gy9YFDrhJbxoGPm05v3rq",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3Gy9YFDrhJbxoGPm05v3rq",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "GIRLFRIEND",
+    "spotifyId": "4jMAPB1oOdRVwqvGOnsNGn",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4jMAPB1oOdRVwqvGOnsNGn",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4jMAPB1oOdRVwqvGOnsNGn",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "SALTY DOG",
+    "spotifyId": "5jpR91rnpOUDMELx9VHK1a",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5jpR91rnpOUDMELx9VHK1a",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5jpR91rnpOUDMELx9VHK1a",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "HER NAME IN BLOOD",
+    "spotifyId": "77DFYRFqoSdvFpprpWY3pK",
+    "spotifyClientUrl": "https://open.spotify.com/artist/77DFYRFqoSdvFpprpWY3pK",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/77DFYRFqoSdvFpprpWY3pK",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese metalcore"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ベイビーレイズJAPAN",
+    "spotifyId": "0XctFGiNhyACfLu3eZBpNq",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0XctFGiNhyACfLu3eZBpNq",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0XctFGiNhyACfLu3eZBpNq",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "あゆみくりかまき",
+    "spotifyId": "0UDiy9fLk3rtgfh5lDqRqu",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0UDiy9fLk3rtgfh5lDqRqu",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0UDiy9fLk3rtgfh5lDqRqu",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "神使轟く、激情の如く。",
+    "spotifyId": "5zBxPM5Wl0367L3zucNW13",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5zBxPM5Wl0367L3zucNW13",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5zBxPM5Wl0367L3zucNW13",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "アイドリング!!!",
+    "spotifyId": "4MMquRKVnKJLWy1FW5vVKO",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4MMquRKVnKJLWy1FW5vVKO",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4MMquRKVnKJLWy1FW5vVKO",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "放課後プリンセス",
+    "spotifyId": "2LqogDqk9rNIClwIAcYEYS",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2LqogDqk9rNIClwIAcYEYS",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2LqogDqk9rNIClwIAcYEYS",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "「Story of Hope」",
+    "spotifyId": "7eISwg7a85Nl2045F0zKZI",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7eISwg7a85Nl2045F0zKZI",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7eISwg7a85Nl2045F0zKZI",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese post-hardcore"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "predia",
+    "spotifyId": "4p0bE2q98Sv49i0EY1S8cx",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4p0bE2q98Sv49i0EY1S8cx",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4p0bE2q98Sv49i0EY1S8cx",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "石黒ケイ",
+    "spotifyId": "3wiCwqhbzyXzW8GI7WfZSM",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3wiCwqhbzyXzW8GI7WfZSM",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3wiCwqhbzyXzW8GI7WfZSM",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "classic city pop",
+      "classic japanese jazz",
+      "idol kayo"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "アイドルネッサンス",
+    "spotifyId": "2aYc40kazbAlXaVRn61xE5",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2aYc40kazbAlXaVRn61xE5",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2aYc40kazbAlXaVRn61xE5",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Space Girls Planet",
+    "spotifyId": "1fvlOiGxng645gbwwuu2ST",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1fvlOiGxng645gbwwuu2ST",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1fvlOiGxng645gbwwuu2ST",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "アキシブproject",
+    "spotifyId": "3CxxKxNRwPA17HmV5FejRv",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3CxxKxNRwPA17HmV5FejRv",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3CxxKxNRwPA17HmV5FejRv",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Asriel",
+    "spotifyId": "29f9h8pOAnxD1EumbcZU1H",
+    "spotifyClientUrl": "https://open.spotify.com/artist/29f9h8pOAnxD1EumbcZU1H",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/29f9h8pOAnxD1EumbcZU1H",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese power metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Mardelas",
+    "spotifyId": "19G76EA5nW72WfXDdpmIIF",
+    "spotifyClientUrl": "https://open.spotify.com/artist/19G76EA5nW72WfXDdpmIIF",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/19G76EA5nW72WfXDdpmIIF",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese power metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "CROSS VEIN",
+    "spotifyId": "27qfTUYbf2LVfwv9davu2f",
+    "spotifyClientUrl": "https://open.spotify.com/artist/27qfTUYbf2LVfwv9davu2f",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/27qfTUYbf2LVfwv9davu2f",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Cheeky Parade",
+    "spotifyId": "2GThU7riSuMzTkfli5mxhG",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2GThU7riSuMzTkfli5mxhG",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2GThU7riSuMzTkfli5mxhG",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "MELLOW MELLOW",
+    "spotifyId": "024kgS3lJpdd6t1f1yCMpD",
+    "spotifyClientUrl": "https://open.spotify.com/artist/024kgS3lJpdd6t1f1yCMpD",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/024kgS3lJpdd6t1f1yCMpD",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "後藤真希",
+    "spotifyId": "5pJEdeLmuXxPjXLDoXDaP0",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5pJEdeLmuXxPjXLDoXDaP0",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5pJEdeLmuXxPjXLDoXDaP0",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "片瀬那奈",
+    "spotifyId": "0XzSS0BRodTtJDXvOZhBAP",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0XzSS0BRodTtJDXvOZhBAP",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0XzSS0BRodTtJDXvOZhBAP",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "渡辺美優紀",
+    "spotifyId": "0IYkv6n60un8yE423e6ogt",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0IYkv6n60un8yE423e6ogt",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0IYkv6n60un8yE423e6ogt",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "48g",
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "OCTAVIAGRACE",
+    "spotifyId": "0mQrna1ecAw9h40iH5uSks",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0mQrna1ecAw9h40iH5uSks",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0mQrna1ecAw9h40iH5uSks",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "DIVA",
+    "spotifyId": "3XBPdf5zPCzFFcCDDdbEII",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3XBPdf5zPCzFFcCDDdbEII",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3XBPdf5zPCzFFcCDDdbEII",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "FATE GEAR",
+    "spotifyId": "5zOBafh1JUFBrzmQ79X3Zy",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5zOBafh1JUFBrzmQ79X3Zy",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5zOBafh1JUFBrzmQ79X3Zy",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "二口魔菜 Futakuchi Mana",
+    "spotifyId": "6nhHInOnQSWKRxntTHBH29",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6nhHInOnQSWKRxntTHBH29",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6nhHInOnQSWKRxntTHBH29",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese vtuber"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ザ・フーパーズ",
+    "spotifyId": "082w7eIrqH0lvw4pAYVfXZ",
+    "spotifyClientUrl": "https://open.spotify.com/artist/082w7eIrqH0lvw4pAYVfXZ",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/082w7eIrqH0lvw4pAYVfXZ",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "BAND-MAIKO",
+    "spotifyId": "2OIN4qI2EqAsEhrVlnfi02",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2OIN4qI2EqAsEhrVlnfi02",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2OIN4qI2EqAsEhrVlnfi02",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Tomato N' Pine",
+    "spotifyId": "3cb7IpI6ujGhCdKyknSSky",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3cb7IpI6ujGhCdKyknSSky",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3cb7IpI6ujGhCdKyknSSky",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Imperial Circus Dead Decadence",
+    "spotifyId": "5bgW1AysTzHav20snaPkyp",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5bgW1AysTzHav20snaPkyp",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5bgW1AysTzHav20snaPkyp",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese death metal",
+      "japanese power metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "アップアップガールズ(仮)",
+    "spotifyId": "4y3VgnCyFylFGTRf1ArDKE",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4y3VgnCyFylFGTRf1ArDKE",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4y3VgnCyFylFGTRf1ArDKE",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Dragon Guardian",
+    "spotifyId": "0qgh2Na4NslWFCd0pkRYYI",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0qgh2Na4NslWFCd0pkRYYI",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0qgh2Na4NslWFCd0pkRYYI",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "TELECiDE",
+    "spotifyId": "7s0mE8Hbx0W0dNRyJOsN2C",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7s0mE8Hbx0W0dNRyJOsN2C",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7s0mE8Hbx0W0dNRyJOsN2C",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "PARADISE GO!! GO!!",
+    "spotifyId": "1NAVaZ5SC1tQnmLCg9MiTB",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1NAVaZ5SC1tQnmLCg9MiTB",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1NAVaZ5SC1tQnmLCg9MiTB",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "中嶋美智代",
+    "spotifyId": "7lHX6ZlcvkVuUh9yGzsNzg",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7lHX6ZlcvkVuUh9yGzsNzg",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7lHX6ZlcvkVuUh9yGzsNzg",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "classic j-pop",
+      "idol kayo"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Ange☆Reve",
+    "spotifyId": "6YfQ53lX1tTVTykYXpXgv4",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6YfQ53lX1tTVTykYXpXgv4",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6YfQ53lX1tTVTykYXpXgv4",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "NECRONOMIDOL",
+    "spotifyId": "6Jjt17MHjKTQ2A7UOXNgUX",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6Jjt17MHjKTQ2A7UOXNgUX",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6Jjt17MHjKTQ2A7UOXNgUX",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Tetrarkhia",
+    "spotifyId": "59bHGmUyWNkHGMREdMqgbT",
+    "spotifyClientUrl": "https://open.spotify.com/artist/59bHGmUyWNkHGMREdMqgbT",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/59bHGmUyWNkHGMREdMqgbT",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol game",
+      "j-division"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Q'ulle",
+    "spotifyId": "0OWOYOXbSfDNDGN55IiLvh",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0OWOYOXbSfDNDGN55IiLvh",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0OWOYOXbSfDNDGN55IiLvh",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pixie",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "exist†trace",
+    "spotifyId": "2qrNC9noTTHFbNw5SQTh52",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2qrNC9noTTHFbNw5SQTh52",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2qrNC9noTTHFbNw5SQTh52",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "oshare kei",
+      "visual kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Dorothy Little Happy",
+    "spotifyId": "26TjxNdtBCIy3HDRQjXOQ9",
+    "spotifyClientUrl": "https://open.spotify.com/artist/26TjxNdtBCIy3HDRQjXOQ9",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/26TjxNdtBCIy3HDRQjXOQ9",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "転校少女*",
+    "spotifyId": "3KWjpxRsYsd9xrbjhiOU5e",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3KWjpxRsYsd9xrbjhiOU5e",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3KWjpxRsYsd9xrbjhiOU5e",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Blood Stain Child",
+    "spotifyId": "4EvbQBS99RXzFGGimAS3i9",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4EvbQBS99RXzFGGimAS3i9",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4EvbQBS99RXzFGGimAS3i9",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "cyber metal",
+      "gothic symphonic metal",
+      "idol rock",
+      "j-metal",
+      "japanese death metal",
+      "kawaii metal",
+      "melodic death metal",
+      "trancecore"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Rie a.k.a. Suzaku",
+    "spotifyId": "4fK9DBwFEOUlBeAGpsf317",
+    "spotifyClientUrl": "https://open.spotify.com/artist/4fK9DBwFEOUlBeAGpsf317",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/4fK9DBwFEOUlBeAGpsf317",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese power metal",
+      "kawaii metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "SweetS",
+    "spotifyId": "2uGGtCBeHWrncbUCw4RxZi",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2uGGtCBeHWrncbUCw4RxZi",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2uGGtCBeHWrncbUCw4RxZi",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "WHY@DOLL",
+    "spotifyId": "27r6abEyTnaeZWl1mRrBVG",
+    "spotifyClientUrl": "https://open.spotify.com/artist/27r6abEyTnaeZWl1mRrBVG",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/27r6abEyTnaeZWl1mRrBVG",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Esprit D'Air",
+    "spotifyId": "41R42bjR4KaZCo7T4NvDLD",
+    "spotifyClientUrl": "https://open.spotify.com/artist/41R42bjR4KaZCo7T4NvDLD",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/41R42bjR4KaZCo7T4NvDLD",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "DAZZLE VISION",
+    "spotifyId": "1dYHBviFFOem5Y7eYFIDV8",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1dYHBviFFOem5Y7eYFIDV8",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1dYHBviFFOem5Y7eYFIDV8",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-metal",
+      "japanese metalcore",
+      "japanese pop punk",
+      "japanese post-hardcore",
+      "kawaii metal",
+      "oshare kei"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Starmarie",
+    "spotifyId": "3etbsCusepjmYbexZDG2os",
+    "spotifyClientUrl": "https://open.spotify.com/artist/3etbsCusepjmYbexZDG2os",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/3etbsCusepjmYbexZDG2os",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "Sweet Vacation",
+    "spotifyId": "2uZVOnZSFwo6D45n5bmqgv",
+    "spotifyClientUrl": "https://open.spotify.com/artist/2uZVOnZSFwo6D45n5bmqgv",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/2uZVOnZSFwo6D45n5bmqgv",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol",
+      "japanese electropop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "3B junior",
+    "spotifyId": "7cOCysEIICe339HNXOdJ6H",
+    "spotifyClientUrl": "https://open.spotify.com/artist/7cOCysEIICe339HNXOdJ6H",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/7cOCysEIICe339HNXOdJ6H",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-pop girl group"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "DAN JYO",
+    "spotifyId": "0sQvZ0qRN85tFhsllKCEA2",
+    "spotifyClientUrl": "https://open.spotify.com/artist/0sQvZ0qRN85tFhsllKCEA2",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/0sQvZ0qRN85tFhsllKCEA2",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "YUZUKINGDOM",
+    "spotifyId": "41K842jEAxxYsj73VOMjhE",
+    "spotifyClientUrl": "https://open.spotify.com/artist/41K842jEAxxYsj73VOMjhE",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/41K842jEAxxYsj73VOMjhE",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "japanese metalcore"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "AeLL.",
+    "spotifyId": "1OCf8p6PYMsN06vjRNx3fw",
+    "spotifyClientUrl": "https://open.spotify.com/artist/1OCf8p6PYMsN06vjRNx3fw",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/1OCf8p6PYMsN06vjRNx3fw",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-idol"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ウェザーガールズ",
+    "spotifyId": "6k9otiJPrFhjDWh2EqBqHD",
+    "spotifyClientUrl": "https://open.spotify.com/artist/6k9otiJPrFhjDWh2EqBqHD",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/6k9otiJPrFhjDWh2EqBqHD",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "j-pop girl group",
+      "taiwan idol pop"
+    ],
+    "idolCategory": null
+  },
+  {
+    "idolType": "j-idol",
+    "IdolName": "ハニーゴーラン",
+    "spotifyId": "5eW08DoTukw22qbVkSZ2rB",
+    "spotifyClientUrl": "https://open.spotify.com/artist/5eW08DoTukw22qbVkSZ2rB",
+    "spotifyApiUrl": "https://api.spotify.com/v1/artists/5eW08DoTukw22qbVkSZ2rB",
+    "spotifyGenre": "j-idol",
+    "spotifyGenreList": [
+      "idol rock",
+      "j-division"
+    ],
+    "idolCategory": null
+  }
+]
