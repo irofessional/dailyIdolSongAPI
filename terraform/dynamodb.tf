@@ -1,51 +1,39 @@
-locals {
-  hash_key_name  = "IdolType"
-  range_key_name = "IdolName"
-}
-
 resource "aws_dynamodb_table" "idol_table" {
   name         = "idolGroupList"
   billing_mode = "PAY_PER_REQUEST"
-  hash_key     = local.hash_key_name
-  range_key    = local.range_key_name
+  hash_key     = "idolIdentifer"
+  range_key    = "dataType"
 
   attribute {
-    name = local.hash_key_name
+    name = "idolIdentifer"
     type = "S"
   }
 
   attribute {
-    name = local.range_key_name
+    name = "dataType"
     type = "S"
   }
 
   attribute {
-    name = "UserDefinedIdolCategory"
+    name = "dataValue"
     type = "S"
+  }
+
+  global_secondary_index {
+    name            = "getByDataValue"
+    hash_key        = "dataValue"
+    range_key       = "idolIdentifer"
+    projection_type = "ALL"
   }
 
 
   global_secondary_index {
-    name            = "getByIdolName"
-    hash_key        = local.range_key_name
+    name            = "getByDataType"
+    hash_key        = "dataType"
+    range_key       = "dataValue"
     projection_type = "INCLUDE"
     non_key_attributes = [
-      "getByUserDefinedCategory",
-      "spotifyId",
-      "spotifyClientUrl",
-      "spotifyApiUrl"
-    ]
-  }
-
-  global_secondary_index {
-    name            = "getByUserDefinedCategory"
-    hash_key        = "UserDefinedIdolCategory"
-    projection_type = "INCLUDE"
-    non_key_attributes = [
-      local.range_key_name,
-      "spotifyId",
-      "spotifyClientUrl",
-      "spotifyApiUrl"
+      "idolIdentifer",
     ]
   }
 
